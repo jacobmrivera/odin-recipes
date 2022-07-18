@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: black;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+ol{
+    font-size: large;
+    text-align: center;
+}
+
+ul{
+    font-size:large;
+    text-align: center;
+
+}
+
+.image{
+    width:750px;
+    height:auto;
+}
+
